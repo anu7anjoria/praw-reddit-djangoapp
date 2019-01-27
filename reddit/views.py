@@ -9,8 +9,8 @@ DisplaySubmission = []
   #  return HttpResponse("<h1>page here</h1>")
 
 def parm(request,slug):
-    reddit = praw.Reddit(client_id='5djWuT7lVQZwUA',
-                      client_secret='7HqoHyGoRo8ZHJq3ZBp2jTQtb9U',
+    reddit = praw.Reddit(client_id='',
+                      client_secret='',
                       user_agent='thisisnotneeded')    
 
     subreddit = reddit.subreddit(slug)
