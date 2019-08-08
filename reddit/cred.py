@@ -1,0 +1,5 @@
+client_id = '57CAmz3EbRoQ-w'
+client_secret = 'cztMQpISH3YFfltrTcALY56m-Gc'
+password = 'analkumargta'
+user_agent = 'noneed'
+username = 'spam_bot_reddit'
